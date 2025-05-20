@@ -13,7 +13,7 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 // [ES] > Agrega el número que será Bot y los que serán propietarios.
 // [EN] > Add the number that will be Bot and those that will be owners.
 global.owner = [
-["201280244814", '👑 Flash - Z4cK & Mori 👑', true],//عدل الرقم والاسم وحط اسمك ورقمك
+["201505414954", '👑 صلعون - X7  👑', true],//عدل الرقم والاسم وحط اسمك ورقمك
 ]
 
 
@@ -116,9 +116,9 @@ global.moment = moment
 // [ES] > Agregate a ti, colaboradores o ayudates, aparecerá en el comando de lista de contactos.
 // [EN] > Adding yourself, collaborators or helpers will appear in the contact list command.
 global.official = [ // Agregate si eres Owner
-["972546887176", '👑 Flash - Zack 👑', 1], 
-["20124563219", '💫 Flash - Naruto 💫', 1],  
-["972546887176", '👑 Flash - Zack 👑', 1]]
+["201505414954", '👑 صلعون - X7 👑', 1], 
+["201505414954", '💫 صلعون - X0 💫', 1],  
+["201027027460", '👑 صلعون - X7 👑', 1]]
 
 global.mail = '' // Add email
 global.desc = '' // Add short description (20 caractres max)
@@ -126,8 +126,8 @@ global.desc2 = '' // Add long description (90 caractres max) (Este parámetro se
 global.country = '' // Add country, example: 🇪🇨
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
-global.packname = `𝐅𝐋𝐀𝐒𝐇﹝⚡️﹞𝐁𝐎𝐓` //"𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 🐈"
-global.author = `Naruto & Zack` //"𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨"
+global.packname = `صلعون بوت 😎` //"𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 🐈"
+global.author = `X0 & X7` //"𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨"
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 // [ES] > INFORMACIÓN DE VERSIONES DEL BOT, POR FAVOR 
@@ -135,7 +135,7 @@ global.author = `Naruto & Zack` //"𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨"
 // [EN] > BOT VERSION INFORMATION, PLEASE KEEP THIS UNCHANGED, WE STRIVE DAILY TO PROVIDE YOU WITH A BOT FOR THE COMMUNITY, BE GRATEFUL
 global.vs = "1.7.0"
 global.vsJB = "3.0 (Beta)"
-global.gt = "Naruto & Zack"
+global.gt = "X0 & X7"
 
 fetchDataAndProcess().catch(error => console.error('Ocurrió un error:', error))
 
@@ -163,9 +163,9 @@ global.eg = '╰⊱💚⊱ *𝙀́𝙓𝙄𝙏𝙊 | 𝙎𝙐𝘾𝘾𝙀𝙎�
 global.exito = eg
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
-global.wm = "𝐅𝐋𝐀𝐒𝐇﹝⚡️﹞𝐁𝐎𝐓"
-global.igfg = "Naruto & Zack"
-global.nomorown = "972546887176"
+global.wm = "صلعون بوت 😎"
+global.igfg = "X0 & X7"
+global.nomorown = "201505414954"
 global.pdoc = ["application/vnd.openxmlformats-officedocument.presentationml.presentation", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", "application/vnd.openxmlformats-officedocument.wordprocessingml.document", "application/vnd.ms-excel", "application/msword", "application/pdf", "text/rtf"]
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
